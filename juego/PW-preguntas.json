@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿En qué año nació la Web?",
+        "respuesta": "1992",
+        "incorrecta1": "1993",
+        "incorrecta2": "1995",
+        "incorrecta3": "1998",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Quién invento la Web?",
+        "respuesta": "Tim Berners Lee",
+        "incorrecta1": "Tim Hortons",
+        "incorrecta2": "Robert Kahn",
+        "incorrecta3": "Vinton Cerf",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Qué es la Web?",
+        "respuesta": "Un conjunto de documentos que se conectan a través de enlaces (hipervínculos)",
+        "incorrecta1": "Un conjunto de multimedias que se conectan a través de enlaces (hipervínculos) ",
+        "incorrecta2": "Una biblioteca digital",
+        "incorrecta3": "Un conjunto de estilos",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Qué significa HTML?",
+        "respuesta": "Lenguaje de Marcado de Hipertexto",
+        "incorrecta1": "Lenguaje de Maquetado de Hipertexto",
+        "incorrecta2": "Lenguaje de Hipertexto",
+        "incorrecta3": "Lenguaje de Estilos en Cascada",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "Gracias a ¿Qué tecnología se escriben documentos que se conectan entre ellos?",
+        "respuesta": "HTML",
+        "incorrecta1": "JavaScript",
+        "incorrecta2": "CSS",
+        "incorrecta3": "SASS",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Qué es una página Web?",
+        "respuesta": "Es un documento HTML que puede tener CSS o JS.",
+        "incorrecta1": "Es un documento que puede tener CSS o JS.",
+        "incorrecta2": "Un montón de etiquetas puestas sin orden alguno",
+        "incorrecta3": "Una forma de manipular el hardware",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "Es un conjunto de páginas web estructuradas dentro de un dominio.",
+        "respuesta": "Sitio Web",
+        "incorrecta1": "Página Web",
+        "incorrecta2": "Dominio",
+        "incorrecta3": "Libro Web",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "Las páginas y los sitios web solo son...",
+        "respuesta": "Informativos",
+        "incorrecta1": "Dinámicos",
+        "incorrecta2": "Estáticos",
+        "incorrecta3": "Divertidos",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Qué es una Aplicación Web?",
+        "respuesta": "Es un software completo que tiene una lógica de negocio",
+        "incorrecta1": "Un software como tal pero que funciona con tecnologías de diseño",
+        "incorrecta2": "Un software como tal pero que funciona con tecnologías primitivas",
+        "incorrecta3": "Es un software completo",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Web",
+        "pregunta": "¿Qué son los hipervínculos?",
+        "respuesta": "Es lo que permite que los documentos que se conecten entre ellos",
+        "incorrecta1": "Enlaces malisiosos",
+        "incorrecta2": "Ligas que solo tienen como función poner estilos en una página Web",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    }    
+]

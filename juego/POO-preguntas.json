@@ -1,0 +1,83 @@
+[
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "¿Qué es la Programación Orientada a Objetos?",
+        "respuesta": "Es un paradigma de programación",
+        "incorrecta1": "Es una forma rápida de programar máquinas (objetos)",
+        "incorrecta2": "Instrucciones de arriba hacia a bajo",
+        "incorrecta3": "Atributo",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "Los estilos de programación son conocidos ¿Cómo...?",
+        "respuesta": "Paradigmas",
+        "incorrecta1": "Buenas prácticas",
+        "incorrecta2": "Series",
+        "incorrecta3": "Instrucciones",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "Cada uno de los elementos de la interfaz es un...",
+        "respuesta": "Objeto",
+        "incorrecta1": "Instrucción",
+        "incorrecta2": "Atributo",
+        "incorrecta3": "Propiedad",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "¿Qué necesita tener un Objeto para considerarse uno?",
+        "respuesta": "Atributos y Métodos",
+        "incorrecta1": "Información",
+        "incorrecta2": "Constantes",
+        "incorrecta3": "Funcionalidad, constantes y Herencia",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "¿La estructura básica de una clase qué contiene?",
+        "respuesta": "Plantillas que contienen la estructura básica de un objeto.",
+        "incorrecta1": "Datos y Funcionalidad",
+        "incorrecta2": "Constantes",
+        "incorrecta3": "Funcionalidad, constantes y Herencia",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "¿Qué son los atributos?",
+        "respuesta": "Propiedades que pueden asumir los objetos dentro de una clase.",
+        "incorrecta1": "Propiedades que pueden asumir las clases dentro de un objeto.",
+        "incorrecta2": "Una forma de ser",
+        "incorrecta3": "Estas son descripciones de los datos que siempre serán constantes.",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "¿Qué es la abstracción?",
+        "respuesta": "Pensar ¿Cuáles son los atributos y métodos que necesita un objeto?",
+        "incorrecta1": "Los atributos y métodos que ya se saben se usaran en un objeto y son los mismos para todos",
+        "incorrecta2": "Propiedades que pueden asumir los objetos dentro de una clase. ",
+        "incorrecta3": "Un ente que consta de un estado y de un comportamiento",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programación Orientada a Objetos",
+        "pregunta": "El proceso de crear un objeto a partir de una clase se llama",
+        "respuesta": "Instanciar",
+        "incorrecta1": "Escritura",
+        "incorrecta2": "Pensamiento",
+        "incorrecta3": "Requerimiento",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    }
+
+]

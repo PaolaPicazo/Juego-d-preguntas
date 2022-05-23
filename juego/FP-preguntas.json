@@ -1,0 +1,103 @@
+[
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Qué es una variable?",
+        "respuesta": "Un espacio en memoria",
+        "incorrecta1": "Algo que es constante",
+        "incorrecta2": "Long",
+        "incorrecta3": "Un rango",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Qué es un algoritmo?",
+        "respuesta": "Una secuencia de instrucciones",
+        "incorrecta1": "Una representación gráfica",
+        "incorrecta2": "Símbolos",
+        "incorrecta3": "Una perdida de tiempo",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Cuáles son los conceptos básicos de la programación?",
+        "respuesta": "POO, variables y diagramas",
+        "incorrecta1": "Lógica, sintaxis y web",
+        "incorrecta2": "Ceros y unos, diagramas y vertientes",
+        "incorrecta3": "Diagramas de flujo, variables y código binario",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Cómo se le conoce a los ceros y unos?",
+        "respuesta": "Código binario",
+        "incorrecta1": "Código secreto",
+        "incorrecta2": "Código morse",
+        "incorrecta3": "Código dinario",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Cuántos niveles de lenguajes existen?",
+        "respuesta": "Dos",
+        "incorrecta1": "Tres",
+        "incorrecta2": "Uno",
+        "incorrecta3": "Cinco",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Cuál es un lenguaje de programación?",
+        "respuesta": "C++",
+        "incorrecta1": "JavaScript bajo",
+        "incorrecta2": "Pascal",
+        "incorrecta3": "NetBeans IDE",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Qué es un diagrama de flujo?",
+        "respuesta": "Una representación gráfica del algoritmo",
+        "incorrecta1": "Una secuencia de instrucciones",
+        "incorrecta2": "Símbolos",
+        "incorrecta3": "Una representación gráfica",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "Un nombre simbolico es...",
+        "respuesta": "Un identificador para una variable",
+        "incorrecta1": "Un valor para una variable",
+        "incorrecta2": "Una forma de llamar algo",
+        "incorrecta3": "Un especio de memoria",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Cuántos bits de longitud tiene el tipo de dato Long?",
+        "respuesta": "32 bits",
+        "incorrecta1": "32.5 bits",
+        "incorrecta2": "16 bits",
+        "incorrecta3": "8 bits",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    }
+    ,
+    {
+        "categoria": "Fundamentos de programación",
+        "pregunta": "¿Qué contiene una variable?",
+        "respuesta": "Un valor conocido o desconocido",
+        "incorrecta1": "Un valor conocido",
+        "incorrecta2": "Un nombre",
+        "incorrecta3": "Información aleatoria",
+        "imagen": "../img/PreguntasFP/1.png",
+        "objectFit": "cover"
+    }
+]

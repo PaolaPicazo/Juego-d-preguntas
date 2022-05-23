@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿La Inteligencia Artificial qué hace posible?",
+        "respuesta": "Que las máquinas aprendan de la experiencia",
+        "incorrecta1": "Tengan las mismas aportaciones",
+        "incorrecta2": "Que las máquinas no aprendan de la experiencia",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "La IA permite que las máquinas realicen tareas como...",
+        "respuesta": "Seres humanos ",
+        "incorrecta1": "Algo rápido y sin fallas",
+        "incorrecta2": "Prioridad",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿La IA cómo funciona?",
+        "respuesta": "Combinando grandes cantidades de datos con procesamiento rápido e iterativo y algoritmos inteligentes",
+        "incorrecta1": "Aprendiendo automáticamente de los datos",
+        "incorrecta2": "Aprendiendo automáticamente de los códigos",
+        "incorrecta3": "Aprendiendo automáticamente por cuenta propia",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿Por qué se dice que la IA es un vasto campo de estudio?",
+        "respuesta": "Porque incluye muchas teorías, métodos y tecnologías",
+        "incorrecta1": "Porque incluye muchas cosas abstractas",
+        "incorrecta2": "Porque incluye muchos métodos",
+        "incorrecta3": "Porque incluye muchas tecnologías",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "Indica los subcampos principales de la IA",
+        "respuesta": "Aprendizaje basado en máquina, red neural y aprendizaje a fondo",
+        "incorrecta1": "Aprendizaje especial",
+        "incorrecta2": "Aprendizaje basado en máquina virtual",
+        "incorrecta3": "Aprendizaje basado en profundidad",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "El aprendizaje basado en máquina...",
+        "respuesta": "Automatiza la construcción de modelos analíticos",
+        "incorrecta1": "Automatiza los métodos analíticos",
+        "incorrecta2": "Es un tipo de aprendizaje basado en máquina que se compone de unidades interconectadas",
+        "incorrecta3": "Usa múltiples pases en los datos para hallar conexiones y obtener significado de datos no definidos.",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿Qué es una red neural?",
+        "respuesta": "Un tipo de aprendizaje basado en máquina que se compone de unidades interconectadas (como neuronas)",
+        "incorrecta1": "Un tipo de aprendizaje basado en experiencias que se compone de unidades interconectadas",
+        "incorrecta2": "Obtiene datos no definidos",
+        "incorrecta3": "Obtiene datos definidos",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿Qué es el procesamiento del lenguaje natural?",
+        "respuesta": "La capacidad de las computadoras de analizar, entender y generar lenguaje humano, incluyendo el habla",
+        "incorrecta1": "La capacidad de las computadoras de analizar, entender y generar lenguaje humano, incluyendo la escritura",
+        "incorrecta2": "Cuando las máquinas pueden procesar, analizar y entender imágenes",
+        "incorrecta3": "Comunicación entre computadoras",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿La visión por computadora en qué apoya?",
+        "respuesta": "En el reconocimiento de patrones y el aprendizaje profundo",
+        "incorrecta1": "En el reconocimiento de patrones",
+        "incorrecta2": "En el aprendizaje",
+        "incorrecta3": "Interpretar imágenes ",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inteligencia Artificial",
+        "pregunta": "¿Qué busca el cómputo cognitivo?",
+        "respuesta": "Una interacción de tipo humano con las máquinas",
+        "incorrecta1": "Una interacción de tipo máquinas",
+        "incorrecta2": "Simule procesos",
+        "incorrecta3": "Aprender a usar una computadora",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    }
+]

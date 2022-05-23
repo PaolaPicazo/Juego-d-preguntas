@@ -1,0 +1,92 @@
+[
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "Estudia y aplica diferentes formas de organizar información dentro de una aplicación",
+        "respuesta": "Las estructuras de datos",
+        "incorrecta1": "POO",
+        "incorrecta2": "Directorios",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "¿Qué son los arreglos?",
+        "respuesta": "Es una manera de almacenar múltiples datos en una sola variable",
+        "incorrecta1": "Es una manera de almacenar múltiples datos en diferentes variables",
+        "incorrecta2": "Es una manera de almacenar un dato datos en una sola variable ",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "Indica una característica de las pilas",
+        "respuesta": "Permite eliminar en la cima de una lista",
+        "incorrecta1": "Permite eliminar un dato sin importar su ubicación en una lista",
+        "incorrecta2": "Un objeto",
+        "incorrecta3": "LIFO",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "¿En que modo de acceso trabajan las pilas?",
+        "respuesta": "LIFO",
+        "incorrecta1": "FIFO",
+        "incorrecta2": "FEFO",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "¿Push qué tipo de operación es?",
+        "respuesta": "Operación de inserción",
+        "incorrecta1": "Operación de salida",
+        "incorrecta2": "Operación de eliminación aleatoria",
+        "incorrecta3": "Operación de consulta",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "¿Pull qué tipo de operación es?",
+        "respuesta": "Operación de extracción",
+        "incorrecta1": "Operación de eliminación aleatoria",
+        "incorrecta2": "Operación de consulta",
+        "incorrecta3": "Operación de inserción",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "Los Árboles Binarios están compuestos por...",
+        "respuesta": "Nodos",
+        "incorrecta1": "Códigos",
+        "incorrecta2": "Bases de Datos",
+        "incorrecta3": "Letras",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "Los nodos tienen hijos...",
+        "respuesta": "Izquierdos y derechos",
+        "incorrecta1": "Solo derechos",
+        "incorrecta2": "Solo izquierdos",
+        "incorrecta3": "No tienen hijos",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Estructuras de Datos",
+        "pregunta": "¿Cuáles son los atributos de los nodos de una lista enlazada?",
+        "respuesta": "Datos y enlaces",
+        "incorrecta1": "Enlaces y ramas",
+        "incorrecta2": "Punteros y letras",
+        "incorrecta3": "Datos, ramas y un enlace",
+        "imagen": "../img/PreguntasFP/1.jpg",
+        "objectFit": "cover"
+    }
+]

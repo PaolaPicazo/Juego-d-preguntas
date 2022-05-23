@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Qué es un evento?",
+        "respuesta": "Es la notificación que hace un elemento gráfico cuando el usuario interactúa con él.",
+        "incorrecta1": "Es la notificación que hace una ventana cuando el usuario interactúa con él.",
+        "incorrecta2": "La planificación hecha por parte de la RAM con respecto a un acción del teclado",
+        "incorrecta3": "Es el recordatorio que hace un evento cuando el usuario interactúa con él.",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "Si se realiza alguna acción sobre algún elemento de la interfaz, se dice que se ha generado un...",
+        "respuesta": "Evento",
+        "incorrecta1": "Código nuevo",
+        "incorrecta2": "Acción especifica",
+        "incorrecta3": "Un clic",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Cuántos tipos de eventos existen?",
+        "respuesta": "Dos",
+        "incorrecta1": "Tres",
+        "incorrecta2": "Nueve",
+        "incorrecta3": "Siete",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "Indica cuales son las dos clasificaciones de eventos existen",
+        "respuesta": "Bajo nivel y Semanticos",
+        "incorrecta1": "Alto nivel y Semanticos",
+        "incorrecta2": "Semanticos, Alto y Bajo nivel",
+        "incorrecta3": "Singulares y Complejos",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Qué representan los eventos de bajo nivel?",
+        "respuesta": "Entradas o interacciones de bajo nivel con elementos de la interfaz gráfica",
+        "incorrecta1": "Salidas e interacciones de bajo nivel con elementos de la interfaz gráfica",
+        "incorrecta2": "Entradas, salidas e interacciones de bajo nivel con elementos de la interfaz gráfica",
+        "incorrecta3": "Interacciones de alto nivel con  elementos de la interfaz gráfica",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "Son eventos de bajo nivel ",
+        "respuesta": "Cambio de tamaño, cambio del foco, operación con el ratón o con el teclado ",
+        "incorrecta1": "Cambio de tamaño, cambio del foco, operación con el ratón",
+        "incorrecta2": "Cambio de color, cambio del foco, operación con el ratón o con el teclado ",
+        "incorrecta3": "Cambio de posición, y operación con el teclado ",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "A los eventos semanticos también se les conoce como: ",
+        "respuesta": "Eventos de alto nivel",
+        "incorrecta1": "Eventos de bajo nivel ",
+        "incorrecta2": "Eventos de nivel variable",
+        "incorrecta3": "Eventos de alto y bajo nivel",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Cuáles eventos corresponden a los eventos de bajo nivel?",
+        "respuesta": "Component Event, FocusEvent, KeyEvent y MouseEvent",
+        "incorrecta1": "Component Event, FocusEvent, KeyEvent y ActionEvent",
+        "incorrecta2": "ChangeEvent, ActionEvent y Caret Event",
+        "incorrecta3": "KeyEvent, ChangeEvent, ActionEvent y Caret Event",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Cuáles eventos corresponden a los eventos de alto nivel?",
+        "respuesta": "ChangeEvent, ActionEvent y Caret Event",
+        "incorrecta1": "Component Event, ChangeEvent, ActionEvent y Caret Event",
+        "incorrecta2": "Component Event e ItemEvent",
+        "incorrecta3": "ListSelectionEvent, AncestorEvent y MouseEvent",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Tópicos Avazados de Programación",
+        "pregunta": "¿Cuál evento selecciona o deselecciona un elemento? ",
+        "respuesta": "ItemEvent",
+        "incorrecta1": "SelectorEvent",
+        "incorrecta2": "MouseEvent",
+        "incorrecta3": "Caret Event",
+        "imagen": "../img/preguntas-respuestas.jpg",
+        "objectFit": "cover"
+    }
+]
